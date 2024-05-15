@@ -26,3 +26,4 @@ C:\Users\andre.levi\Documents\repos\blazor-mvc\BlazorMvc.Frontend\obj\Debug\net8
 C:\Users\andre.levi\Documents\repos\blazor-mvc\BlazorMvc.Frontend\obj\Debug\net8.0\BlazorMvc.Frontend.pdb
 C:\Users\andre.levi\Documents\repos\blazor-mvc\BlazorMvc.Frontend\obj\Debug\net8.0\BlazorMvc.Frontend.genruntimeconfig.cache
 C:\Users\andre.levi\Documents\repos\blazor-mvc\BlazorMvc.Frontend\obj\Debug\net8.0\ref\BlazorMvc.Frontend.dll
+C:\Users\andre.levi\Documents\repos\blazor-mvc\BlazorMvc.Frontend\obj\Debug\net8.0\BlazorMvc.Frontend.sourcelink.json

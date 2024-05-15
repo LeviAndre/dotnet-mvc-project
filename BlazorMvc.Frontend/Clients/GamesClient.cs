@@ -1,10 +1,10 @@
-﻿using BlazorMvc.Frontend.Models;
-
-namespace BlazorMvc.Frontend.Clients;
+﻿using BlazorMvc.Frontend;
+using BlazorMvc.Frontend.Clients;
+using BlazorMvc.Frontend.Models;
 
 public class GamesClient
 {   
-        private readonly GameSummary[] games =  
+        private readonly List<GameSummary> games =  
     [
         new(){
             Id = 1,
@@ -29,5 +29,22 @@ public class GamesClient
         }
     ];
 
+    private readonly Genre[] genres = new GenresClient().GetGenres();
+
     public GameSummary[] getGames () => games.ToArray();
+
+    public void AddGame(GameDetails game) {
+        ArgumentException.ThrowIfNullOrEmpty(game.GenreId);
+        var genre = genres.Single(genre => genre.Id == int.Parse(game.GenreId));
+
+        var gameSummary = new GameSummary{
+            Id = games.Count + 1,
+            Name = game.Name,
+            Genre  = genre.Name,
+            Price = game.Price,
+            ReleaseDate = game.ReleaseDate
+        };
+
+        games.Add(gameSummary);
+    }
 }

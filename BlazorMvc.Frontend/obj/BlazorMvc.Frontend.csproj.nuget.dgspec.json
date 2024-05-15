@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj": {}
+    "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj": {
+    "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj",
+        "projectUniqueName": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj",
         "projectName": "BlazorMvc.Frontend",
-        "projectPath": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj",
+        "projectPath": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\BlazorMvc.Frontend.csproj",
         "packagesPath": "C:\\Users\\andre.levi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\",
+        "outputPath": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre.levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
