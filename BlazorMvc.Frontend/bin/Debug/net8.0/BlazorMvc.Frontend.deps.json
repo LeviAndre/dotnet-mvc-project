@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlazorMvc.Frontend/1.0.0": {
+        "runtime": {
+          "BlazorMvc.Frontend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorMvc.Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
