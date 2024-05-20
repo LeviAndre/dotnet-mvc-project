@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorMvc.API.props" />
+</Project>
