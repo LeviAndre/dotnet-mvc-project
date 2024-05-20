@@ -10,19 +10,19 @@ public class GenresClient
             Name = "Role Playing"
         },
         new (){
-            Id = 1,
+            Id = 2,
             Name = "Sports"
         },
         new (){
-            Id = 1,
+            Id = 3,
             Name = "Kids and Family"
         },
         new (){
-            Id = 1,
+            Id = 4,
             Name = "Fighting"
         },
         new (){
-            Id = 1,
+            Id = 5,
             Name = "Racing"
         },
     ];

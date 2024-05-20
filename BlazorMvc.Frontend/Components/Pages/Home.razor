@@ -1,9 +1,13 @@
 ﻿@page "/"
 @using BlazorMvc.Frontend.Clients
-@using Models;
+
+@inject GamesClient _gamesClient
 
 <PageTitle>Home</PageTitle>
 
+<div class="mt-2">
+    <a class="btn btn-primary" role="button" href="/editgame">New Game</a>
+</div>
 
 @if(games is null)
 {
@@ -16,6 +20,7 @@
             <th>Genre</th>
             <th  class="text-end">Price</th>
             <th>Release Date</th>
+            <th></th>
         </thead>
         <tbody>
             @foreach (var game in games){
@@ -23,8 +28,19 @@
                     <td>@game.Id</td>
                     <td>@game.Name</td>
                     <td>@game.Genre</td>
-                    <td  class="text-end">@game.Price</td>
+                    <td  class="text-end">@game.Price.ToString("C2")</td>
                     <td>@game.ReleaseDate</td>
+                    <td>
+                        <div>
+                            <a class="btn btn-primary me-2" role="button" href="@GameUrl(game.Id)">
+                                <i class="bi bi-pencil" />
+                            </a>
+                            <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="@GetDeleteModalId(game)">
+                                <i class="bi bi-x-lg"></i>
+                            </button>
+                        </div>
+                        <DeleteGame Game="@game" />
+                    </td>
                 </tr>
             }
         </tbody>
@@ -32,12 +48,16 @@
 }
 
 @code {
-    private GamesClient _gamesClient = new();
-
     private GameSummary[]? games;
 
     protected override void OnInitialized() 
     {
         games = _gamesClient.getGames();
+    }
+
+    private static string GameUrl(int id) => $"/editgame/{id}";
+
+    private string GetDeleteModalId(GameSummary game) {
+        return $"#{DeleteGame.GetModalId(game)}";
     }
 }
