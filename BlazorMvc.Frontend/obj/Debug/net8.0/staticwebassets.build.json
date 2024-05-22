@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NBDUjWCuZuN1Wk7lJrDGH1PtlJI0qrDXPP3FcFbizW8=",
+  "Hash": "O26JnwiMSCEVml+HuoU9Qs64qYRBZHt2CzhNpKU6lY4=",
   "Source": "BlazorMvc.Frontend",
   "BasePath": "_content/BlazorMvc.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorMvc.Frontend\\wwwroot",
       "Source": "BlazorMvc.Frontend",
-      "ContentRoot": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\wwwroot\\",
       "BasePath": "_content/BlazorMvc.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorMvc.Frontend.styles.css",
+      "Identity": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorMvc.Frontend.styles.css",
       "SourceId": "BlazorMvc.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorMvc.Frontend",
       "RelativePath": "BlazorMvc.Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorMvc.Frontend.styles.css"
+      "OriginalItemSpec": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorMvc.Frontend.styles.css"
     },
     {
-      "Identity": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorMvc.Frontend.bundle.scp.css",
+      "Identity": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorMvc.Frontend.bundle.scp.css",
       "SourceId": "BlazorMvc.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorMvc.Frontend",
       "RelativePath": "BlazorMvc.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorMvc.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorMvc.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\wwwroot\\app.css",
+      "Identity": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\wwwroot\\app.css",
       "SourceId": "BlazorMvc.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.Frontend\\wwwroot\\",
       "BasePath": "_content/BlazorMvc.Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",

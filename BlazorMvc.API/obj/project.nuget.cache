@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1EYPLX2mUNcvGcDGEv++Wx//b8OnbQjbKfQ+2DubMCjMl9D34xwG782so7Dn/CcInB574puftySjy++Fjhj+tw==",
+  "dgSpecHash": "/np4OFb7Md0VMUbTAoac2brmnRIVemacWw7lF6fi06EZaP17oa374K0x37LACKdpvVIC3R94LyAMo7M4XvbFZw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj",
+  "projectFilePath": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

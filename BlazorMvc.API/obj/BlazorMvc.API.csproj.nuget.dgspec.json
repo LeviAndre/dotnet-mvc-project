@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj": {}
+    "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj": {
+    "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj",
+        "projectUniqueName": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj",
         "projectName": "BlazorMvc.API",
-        "projectPath": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj",
+        "projectPath": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\BlazorMvc.API.csproj",
         "packagesPath": "C:\\Users\\andre.levi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\obj\\",
+        "outputPath": "C:\\Users\\andre.levi\\Documents\\repos\\blazor-mvc\\BlazorMvc.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre.levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
